@@ -1,0 +1,6 @@
+alors on je test si la trace est bien en erreur
+01 on rajoute des lignes avec des octets pour voir si il va recuperer uniquement
+les octects comme 02 78 7F voila 
+les octets au dessus ne sont pas recuperer comparer a ceux qui suivent
+00 2f AB petite pause de trame 34 78 10 3c 
+00 34 3e CB 
